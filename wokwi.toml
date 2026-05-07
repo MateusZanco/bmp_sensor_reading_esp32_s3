@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "build/leitura_sensor_bmp180.bin"
+elf = "build/leitura_sensor_bmp180.elf"
